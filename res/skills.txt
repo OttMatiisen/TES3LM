@@ -1,0 +1,29 @@
+Long Blade		STR
+Blunt Weapon	STR
+Axe				STR
+Armorer			STR
+Medium Armor	END
+Heavy Armor		END
+Spear			END
+Block			AGI
+Athletics		SPE
+
+Alchemy			INT
+Enchant			INT
+Conjuration		INT
+Alteration		WIL
+Destruction		WIL
+Mysticism		WIL
+Restoration		WIL
+Illusion		PER
+Unarmored		SPE
+
+Acrobatics		STR
+Security		INT
+Sneak			AGI
+Light Armor		AGI
+Marksman		AGI
+Short Blade		SPE
+Hand-to-Hand	SPE
+Mercantile		PER
+Speechcraft		PER

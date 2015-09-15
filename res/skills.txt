@@ -1,4 +1,4 @@
-Long Blade		STR
+Long Blade
 Blunt Weapon	STR
 Axe				STR
 Armorer			STR
